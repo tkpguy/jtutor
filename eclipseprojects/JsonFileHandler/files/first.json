@@ -1,0 +1,15 @@
+{
+	"firstname" : "Kanishkaa",
+	"lastname" : "Karthi",
+	"address" : [
+							{
+								"city" : "Chennai",
+								"state" : "Tamil Nadu"
+							},
+							
+							{
+								"city" : "Mumbai",
+								"state" : "Maharashtra"
+							}
+	]
+}

@@ -1,0 +1,6 @@
+pgcon = "jdbc:postgresql://localhost/test?user=fred&password=secret&ssl=true"
+pgusr = "postgres"
+pgpwd = "VGuru1008"
+pgport = "5432"
+pgdb = "olistbrazil"
+pgsrvrnm = "PostgreSQL14"

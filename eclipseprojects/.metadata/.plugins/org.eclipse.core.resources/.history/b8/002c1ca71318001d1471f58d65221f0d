@@ -1,0 +1,14 @@
+package com.nuramss.postgresJavaConnection;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class PostgresJavaConnection {
+
+	public static void main(String[] args) {
+		
+		Connection pgcon = DriverManager.getConnection(null, null, null)
+
+	}
+
+}

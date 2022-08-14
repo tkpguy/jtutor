@@ -1,0 +1,10 @@
+[
+	"Coffee" : {"Milk" : 20.5,
+				"Water" : 15,
+				"Coffee Powder" : 10.5,
+				"Sugar" : 20},
+	"Tea"    : {"Milk" : 20.5,
+				"Water" : 15,
+				"Tea Powder" : 15.5,
+				"Sugar" : 22.5}
+]

@@ -1,0 +1,6 @@
+pgcon = ""
+pgusr = ""
+pgpwd = ""
+pgport = ""
+pgdb = ""
+pgsrvrnm = ""

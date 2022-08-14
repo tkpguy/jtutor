@@ -1,0 +1,6 @@
+pgcon = "jdbc:postgresql://localhost:5432/"
+pgusr = "postgres"
+pgpwd = "VGuru1008"
+pgport = "5432"
+pgdb = "olistbrazil"
+pgsrvrnm = "PostgreSQL14"

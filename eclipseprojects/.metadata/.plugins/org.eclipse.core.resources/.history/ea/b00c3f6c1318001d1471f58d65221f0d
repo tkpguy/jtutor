@@ -1,0 +1,11 @@
+package com.nuramss.postgresJavaConnection;
+
+public class PostgresJavaConnection {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

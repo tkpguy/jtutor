@@ -1,0 +1,17 @@
+package com.nramss.JsonHandler;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
+import org.json.simple.parser.JSONParser;
+
+public class JsonHandler {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		
+		JSONParser jp = new JSONParser();
+		FileReader fr = new FileReader(".//JsonFileHandler//files//first.json");
+
+	}
+
+}

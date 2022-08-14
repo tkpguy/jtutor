@@ -1,0 +1,23 @@
+package com.nuramss.postgresJavaConnection;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.util.Properties;
+
+public class PostgresJavaConnection {
+
+	public static void main(String[] args) throws IOException, SQLException {
+		
+		Properties prop = new Properties();
+		FileReader fr = new FileReader(".\\src\\rsrcs\\pgdb.properties");
+		prop.load(fr);
+		
+		Connection pgcon = DriverManager.getConnection(null, null, null);
+
+	}
+
+}

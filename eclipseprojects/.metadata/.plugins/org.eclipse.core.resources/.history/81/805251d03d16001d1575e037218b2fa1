@@ -1,0 +1,13 @@
+package com.nramss.JsonHandler;
+
+import org.json.simple.parser.JSONParser;
+
+public class JsonHandler {
+
+	public static void main(String[] args) {
+		
+		JSONParser jp = new JSONParser();
+
+	}
+
+}
